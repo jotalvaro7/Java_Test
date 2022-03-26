@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personales.javatest.fizzbuzz.FizzBuzzTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-26T19:31:40" hostname="DESKTOP-LG2E2L8" time="0.003">
+  <properties/>
+  <testcase name="print_fizz_if_number_is_3" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.002"/>
+  <testcase name="print_buzz_if_number_is_5" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="print_buzz_if_number_is_divisible_by_5" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="print_fizz_if_number_is_divisible_by_3" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="print_number_if_number_not_divible_by_3_and_5" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <testcase name="should_print_fizzbuzz_if_they_receive_a_multiple_of_3_and_5" classname="com.personales.javatest.fizzbuzz.FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

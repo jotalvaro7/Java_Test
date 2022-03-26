@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d165aa4-2e0c-4237-be1f-9cfbc2bed718" name="Default Changelist" comment="" />
+    <list default="true" id="8d165aa4-2e0c-4237-be1f-9cfbc2bed718" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personales/javatest/discounts/PriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personales/javatest/fizzbuzz/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/DateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/personales/javatest/discounts/PriceCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/personales/javatest/fizzbuzz/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.personales.javatest.util.StringUtilTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.personales.javatest.util.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.personales.javatest.util.StringUtilTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -21,42 +44,36 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/StringUtil.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/fizzbuzz/FizzBuzz.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="506">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/StringUtilTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/fizzbuzz/FizzBuzzTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+            <state relative-caret-position="805">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#369#370#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#633#634#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
-                <element signature="e#818#819#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#964#965#0" expanded="true" />
-                <element signature="e#1013#1014#0" expanded="true" />
-                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,6 +111,15 @@
         <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/payments/PaymentProcessorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/StringUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/StringUtilTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilShould.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYeaShould.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearShould.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/discounts/PriceCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/discounts/PriceCalculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/fizzbuzz/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/fizzbuzz/FizzBuzzTest.java" />
       </list>
     </option>
   </component>
@@ -118,6 +144,62 @@
               <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
               <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javatest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javatest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+              <item name="discounts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -125,20 +207,24 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/personales/javatest" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/proyectos/spring/torneoapp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.personales.javatest.fizzbuzz" />
+      <recent name="com.personales.javatest.discounts" />
+      <recent name="com.personales.javatest.util" />
       <recent name="com.personales.javatest.payments" />
       <recent name="com.personales.javatest.player" />
-      <recent name="com.personales.javatest.util" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -159,13 +245,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.StringUtilTest">
-    <configuration name="PasswordUtilTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.FizzBuzzTest">
+    <configuration name="FizzBuzzTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.util.PasswordUtilTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.fizzbuzz.FizzBuzzTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -180,12 +266,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PaymentProcessorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FizzBuzzTest.print_buzz_if_number_is_5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.payments.PaymentProcessorTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.fizzbuzz.FizzBuzzTest.print_buzz_if_number_is_5&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -200,12 +286,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PlayerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FizzBuzzTest.print_buzz_if_number_is_divisible_by_5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.player.PlayerTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.fizzbuzz.FizzBuzzTest.print_buzz_if_number_is_divisible_by_5&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -220,12 +306,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StringUtilTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FizzBuzzTest.print_number_if_number_is_0" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.util.StringUtilTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.fizzbuzz.FizzBuzzTest.print_number_if_number_is_0&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -240,12 +326,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="StringUtilTest.test_string_is_not_empty" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="FizzBuzzTest.print_number_if_number_not_divible_by_3_and_5" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.util.StringUtilTest.test_string_is_not_empty&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.personales.javatest.fizzbuzz.FizzBuzzTest.print_number_if_number_not_divible_by_3_and_5&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -262,11 +348,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.StringUtilTest" />
-        <item itemvalue="Gradle.StringUtilTest.test_string_is_not_empty" />
-        <item itemvalue="Gradle.PaymentProcessorTest" />
-        <item itemvalue="Gradle.PlayerTest" />
-        <item itemvalue="Gradle.PasswordUtilTest" />
+        <item itemvalue="Gradle.FizzBuzzTest" />
+        <item itemvalue="Gradle.FizzBuzzTest.print_number_if_number_not_divible_by_3_and_5" />
+        <item itemvalue="Gradle.FizzBuzzTest.print_number_if_number_is_0" />
+        <item itemvalue="Gradle.FizzBuzzTest.print_buzz_if_number_is_divisible_by_5" />
+        <item itemvalue="Gradle.FizzBuzzTest.print_buzz_if_number_is_5" />
       </list>
     </recent_temporary>
   </component>
@@ -281,50 +367,59 @@
       <option name="presentableId" value="Default" />
       <updated>1647547895356</updated>
       <workItem from="1647547898582" duration="4072000" />
-      <workItem from="1647563455508" duration="11993000" />
+      <workItem from="1647563455508" duration="12072000" />
+      <workItem from="1647649543191" duration="3684000" />
+      <workItem from="1647665315183" duration="388000" />
+      <workItem from="1647715121233" duration="1193000" />
+      <workItem from="1647880591243" duration="1228000" />
+      <workItem from="1647924609036" duration="653000" />
+      <workItem from="1648006106661" duration="663000" />
+      <workItem from="1648012280759" duration="1371000" />
+      <workItem from="1648051125566" duration="819000" />
+      <workItem from="1648263978977" duration="3705000" />
+      <workItem from="1648313732461" duration="8987000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PlayerTest - 2022.03.17 at 21h 24m 08s.xml">
-      <configuration name="PlayerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest_print_number_if_number_is_0 - 2022.03.26 at 14h 14m 40s.xml">
+      <configuration name="FizzBuzzTest.print_number_if_number_is_0" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PlayerTest - 2022.03.17 at 21h 30m 35s.xml">
-      <configuration name="PlayerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest_print_number_if_number_is_0 - 2022.03.26 at 14h 14m 59s.xml">
+      <configuration name="FizzBuzzTest.print_number_if_number_is_0" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PlayerTest - 2022.03.17 at 21h 31m 52s.xml">
-      <configuration name="PlayerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest_print_number_if_number_is_0 - 2022.03.26 at 14h 16m 26s.xml">
+      <configuration name="FizzBuzzTest.print_number_if_number_is_0" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PlayerTest - 2022.03.17 at 21h 32m 22s.xml">
-      <configuration name="PlayerTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest_print_number_if_number_is_0 - 2022.03.26 at 14h 16m 30s.xml">
+      <configuration name="FizzBuzzTest.print_number_if_number_is_0" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2022.03.17 at 21h 56m 06s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest_print_number_if_number_not_divible_by_3_and_5 - 2022.03.26 at 14h 22m 28s.xml">
+      <configuration name="FizzBuzzTest.print_number_if_number_not_divible_by_3_and_5" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2022.03.17 at 21h 58m 12s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest - 2022.03.26 at 14h 31m 02s.xml">
+      <configuration name="FizzBuzzTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2022.03.17 at 22h 04m 16s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest - 2022.03.26 at 14h 31m 24s.xml">
+      <configuration name="FizzBuzzTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="PaymentProcessorTest - 2022.03.17 at 22h 23m 51s.xml">
-      <configuration name="PaymentProcessorTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest - 2022.03.26 at 14h 31m 34s.xml">
+      <configuration name="FizzBuzzTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="StringUtilTest_test_string_is_not_empty - 2022.03.17 at 22h 42m 41s.xml">
-      <configuration name="StringUtilTest.test_string_is_not_empty" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest - 2022.03.26 at 14h 31m 36s.xml">
+      <configuration name="FizzBuzzTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="StringUtilTest - 2022.03.17 at 22h 45m 14s.xml">
-      <configuration name="StringUtilTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="FizzBuzzTest - 2022.03.26 at 14h 31m 40s.xml">
+      <configuration name="FizzBuzzTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16065000" />
+    <option name="totallyTimeSpent" value="38835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884793" visible="true" weight="0.25198728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49884793" visible="true" weight="0.2718601" />
       <window_info id="Structure" order="1" sideWeight="0.5011521" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -334,13 +429,13 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34261408" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34261408" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39984533" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32869297" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32869297" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -395,13 +490,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/PasswordUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/player/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
@@ -411,22 +499,6 @@
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#87#88#0" expanded="true" />
             <element signature="e#111#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/PasswordUtilTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -492,29 +564,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/payments/PaymentProcessorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/PasswordUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="962">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="208">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/StringUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="468">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/StringUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="45" column="46" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        <state relative-caret-position="1014">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
             <element signature="e#299#300#0" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
@@ -522,24 +597,118 @@
             <element signature="e#588#589#0" expanded="true" />
             <element signature="e#633#634#0" expanded="true" />
             <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#851#852#0" expanded="true" />
+            <element signature="e#897#898#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1009#1010#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/StringUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/PasswordUtilTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="312">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="53" />
           <folding>
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearShould.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/util/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="71" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/payments/PaymentProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="65" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Double.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="1023" column="25" selection-start-line="1023" selection-start-column="25" selection-end-line="1023" selection-end-column="25" />
+          <folding>
+            <element signature="e#40164#40165#0" expanded="true" />
+            <element signature="e#40192#40193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/discounts/PriceCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/discounts/PriceCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/personales/javatest/fizzbuzz/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/fizzbuzz/FizzBuzzTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
           </folding>
         </state>
       </provider>
