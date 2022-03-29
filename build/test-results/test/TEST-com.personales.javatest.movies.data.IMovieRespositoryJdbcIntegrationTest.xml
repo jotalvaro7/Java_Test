@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.personales.javatest.movies.data.IMovieRespositoryJdbcIntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-29T04:19:22" hostname="DESKTOP-LG2E2L8" time="0.169">
+  <properties/>
+  <testcase name="insert_a_movie" classname="com.personales.javatest.movies.data.IMovieRespositoryJdbcIntegrationTest" time="0.169"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
