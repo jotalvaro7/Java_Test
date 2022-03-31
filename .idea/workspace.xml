@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/test/java/com/personales/javatest/movies/service/MovieServiceTest.java" line="37" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="8d165aa4-2e0c-4237-be1f-9cfbc2bed718" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +33,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
-    <option name="isMigrated" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -50,9 +49,12 @@
       </state>
     </system>
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf />
   </component>
+=======
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -66,52 +68,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/PasswordUtilTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/PasswordUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/Player.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/player/DIce.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/player/Dice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/player/Player.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/player/PlayerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/payments/PaymentGateway.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/payments/PaymentResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/payments/PaymentRequets.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/payments/PaymentProcessor.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/payments/PaymentProcessorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/StringUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/StringUtilTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilShould.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYeaShould.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearShould.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/util/DateUtilLeapYearTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/util/DateUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/discounts/PriceCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/discounts/PriceCalculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/fizzbuzz/FizzBuzz.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/fizzbuzz/FizzBuzzTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/IMovieRespository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/model/Genre.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/data/IMovieRespository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/service/MovieService.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/movies/service/MovieServiceTest.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/sql-scripts/test-data.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/model/Movie.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/com/personales/javatest/movies/data/IMovieRespositoryJdbcIntegrationTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/personales/javatest/movies/data/IMovieRespositoryJdbc.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="2576" />
-    <option name="height" value="1426" />
-  </component>
+  <component name="ProjectId" id="273zH4MN8ZDlPYPaW7CAajT2sKZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< HEAD
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -211,6 +170,12 @@
       </pane>
       <pane id="Scope" />
     </panes>
+=======
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="h2" />
@@ -221,7 +186,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/personales/javatest" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/monitor-server" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -245,18 +214,6 @@
       <recent name="com.personales.javatest.movies.data" />
       <recent name="com.personales.javatest.payments" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Gradle.IMovieRespositoryJdbcIntegrationTest.insert_a_movie">
     <configuration name="IMovieRespositoryJdbcIntegrationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -393,9 +350,14 @@
       <workItem from="1648313732461" duration="11808000" />
       <workItem from="1648477409206" duration="7351000" />
       <workItem from="1648504080283" duration="1215000" />
+<<<<<<< HEAD
       <workItem from="1648519923402" duration="6640000" />
       <workItem from="1648528162154" duration="88000" />
       <workItem from="1648593972673" duration="109000" />
+=======
+      <workItem from="1648519923402" duration="6050000" />
+      <workItem from="1648563469414" duration="100000" />
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
     </task>
     <servers />
   </component>
@@ -431,6 +393,7 @@
       <configuration name="IMovieRespositoryJdbcIntegrationTest.insert_a_movie" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
+<<<<<<< HEAD
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="57059000" />
   </component>
@@ -831,6 +794,11 @@
       </provider>
     </entry>
   </component>
+=======
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+>>>>>>> 246d2c0fbb5bdaee06b54aa619178a5ac87ed673
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
