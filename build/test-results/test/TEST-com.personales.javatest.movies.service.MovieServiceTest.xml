@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.personales.javatest.movies.service.MovieServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-02T02:53:17" hostname="DESKTOP-LG2E2L8" time="0.02">
+<testsuite name="com.personales.javatest.movies.service.MovieServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-02T03:05:09" hostname="DESKTOP-LG2E2L8" time="0.023">
   <properties/>
-  <testcase name="return_movies_by_director" classname="com.personales.javatest.movies.service.MovieServiceTest" time="0.02"/>
+  <testcase name="return_movies_by_genre" classname="com.personales.javatest.movies.service.MovieServiceTest" time="0.02"/>
+  <testcase name="return_movies_by_director" classname="com.personales.javatest.movies.service.MovieServiceTest" time="0.0"/>
+  <testcase name="return_movies_by_name" classname="com.personales.javatest.movies.service.MovieServiceTest" time="0.0"/>
+  <testcase name="return_movies_by_duration" classname="com.personales.javatest.movies.service.MovieServiceTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

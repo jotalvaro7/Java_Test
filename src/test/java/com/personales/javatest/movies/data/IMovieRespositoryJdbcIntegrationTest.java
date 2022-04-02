@@ -53,7 +53,7 @@ public class IMovieRespositoryJdbcIntegrationTest {
         assertThat(movies, is(Arrays.asList(
                 new Movie(1, "Dark Knight", 152, Genre.ACTION, "Christopher Nolan"),
                 new Movie(2, "Memento", 113, Genre.THRILLER, "Christopher Nolan"),
-                new Movie(3, "There's Something About Mary", 119, Genre.COMEDY, "Peter Farrelly, Bobby Farrelly")
+                new Movie(3, "Matrix", 136, Genre.ACTION, "Hermanas Wachowski")
                 )));
 
     }
