@@ -86,6 +86,19 @@ public class MovieServiceTest {
         assertThat(getMovieIds(movies), is(Arrays.asList(1,2,8)));
     }
 
+    @Test
+    public void return_movies_by_template() {
+        Integer id = 1;
+        String name = null; // no queremos buscar por nombre
+        Integer minutes = 150; // 2h 30m
+        Genre genre = Genre.ACTION;
+        String director = null;
+        Movie template = new Movie(name, minutes, genre, director);
+        Collection<Movie> movies =
+                movieService.findMoviesByTemplate(template);
+        assertThat(getMovieIds(movies), is(Arrays.asList(7,9,10)) );
+    }
+
     private List<Integer> getMovieIds(Collection<Movie> movies) {
         return movies.stream().map(Movie::getId).collect(Collectors.toList());
     }

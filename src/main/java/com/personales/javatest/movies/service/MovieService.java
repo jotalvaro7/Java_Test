@@ -35,5 +35,38 @@ public class MovieService {
         return movieRespository.findAll().stream().filter(movie -> movie.getDirector().toLowerCase().contains(director)).collect(Collectors.toList());
     }
 
+    public Collection<Movie> findMoviesByTemplate(Movie template){
+
+        return movieRespository.findAll().stream().filter(
+                movie -> {
+                    if(template.getId() != null){
+                        return movie.getId().equals(template.getId());
+                    }else{
+                        if(template.getMinutes() < 0){
+                            throw new IllegalArgumentException("La duración de una pelicula, no puede ser negativo");
+                        }else if(movie.getMinutes() <= template.getMinutes()){
+                            if(template.getDirector() != null){
+                                if(movie.getDirector().toLowerCase().contains(template.getDirector().toLowerCase())){
+                                    return true;
+                                }
+                            }
+                            if(template.getGenre() != null){
+                                if(movie.getGenre().equals(template.getGenre())){
+                                    return true;
+                                }
+                            }
+                            if(template.getName() != null){
+                                if(movie.getName().toLowerCase().contains(template.getName().toLowerCase())){
+                                    return true;
+                                }
+                            }
+                        }
+                    }
+                    return false;
+                }
+        ).collect(Collectors.toList());
+    }
+
+
 
 }
